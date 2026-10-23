@@ -1,0 +1,3 @@
+-- No official fee values or requirements are seeded intentionally.
+-- Add only entries that the team has verified against the applicable
+-- official handbook edition and any relevant amendments.
